@@ -55,7 +55,8 @@ You got this!
 
 **Deployment Technical Requirements**
 
-- [ ] Your GitHub page has a link to the deployed server in the About section. 
+- [Tai] Your GitHub page has a link to the deployed server in the About section. 
+https://eight-0-0-assignment-taifinkaba.onrender.com
 
 ## Part 1 - Setup
 
@@ -100,3 +101,4 @@ Here is an example of a deployed server: https://github.com/benspector-mls/first
 ## Submit
 
 Submit a link to your GitHub repository on Canvas.
+

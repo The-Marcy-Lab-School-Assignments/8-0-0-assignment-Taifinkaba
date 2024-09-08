@@ -37,25 +37,25 @@ You got this!
 
 **Setup Technical Requirements**
 
-- [Tai] Has a `server` folder with an `index.js` file and a `package.json` file inside
+- [x] Has a `server` folder with an `index.js` file and a `package.json` file inside
 - [Tai] `package.json` has `express` installed as a dependency and `nodemon` as a dev dependency
 - [Tai] `package.json` has a `"dev"` script that uses `nodemon` and a `"start"` script that uses `node`
 
 **Server Application Technical Requirements**
 
-- [Tai] In `index.js`, the `express()` function is used to create an `app`
-- [Tai] There are 4 controller functions
-  - [Tai] Two controllers send an HTML response (either raw HTML or an HTML file)
-  - [Tai] Two controllers send a data response
-  - [Tai] One of the controllers uses query parameters in some way (`req.query.parameterName`)
-- [Tai] There are 4 GET endpoints
-  - [Tai] Endpoints that provided data start with `/api` (ex: `/api/name` returns a name)
-  - [Tai] Endpoints that provide HTML start with `/` (ex: `/about` returns the about HTML page)
-- [Tai] The `app` listens on an available port (I recommend `8080`)
+- [x] In `index.js`, the `express()` function is used to create an `app`
+- [x] There are 4 controller functions
+  - [x] Two controllers send an HTML response (either raw HTML or an HTML file)
+  - [x] Two controllers send a data response
+  - [x] One of the controllers uses query parameters in some way (`req.query.parameterName`)
+- [x] There are 4 GET endpoints
+  - [x] Endpoints that provided data start with `/api` (ex: `/api/name` returns a name)
+  - [x] Endpoints that provide HTML start with `/` (ex: `/about` returns the about HTML page)
+- [x] The `app` listens on an available port (I recommend `8080`)
 
 **Deployment Technical Requirements**
 
-- [Tai] Your GitHub page has a link to the deployed server in the About section. 
+- [x] Your GitHub page has a link to the deployed server in the About section. 
 https://eight-0-0-assignment-taifinkaba.onrender.com
 
 ## Part 1 - Setup
